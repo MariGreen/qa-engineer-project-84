@@ -381,5 +381,4 @@
   steps: |
     Ввести "nail" или "Nail" в строку поиска
   expected-result: |
-    Отображается карточка товара "Red Nail Polish"  
-    
+    Отображается карточка товара "Red Nail Polish"    
