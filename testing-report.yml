@@ -10,7 +10,7 @@
 
 - summary: |
     Фильтр по наличию
-  status: fail
+  status: pass
 
 - summary: |
     Фильтр по категории
@@ -106,4 +106,8 @@
 
 - summary: |
     Проверка работы пересекающихся фильтров
+  status: pass
+
+- summary: |
+    Проверка работы поиска
   status: pass  
