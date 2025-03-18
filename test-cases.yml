@@ -370,5 +370,16 @@
     - Заполнить поле: "Цена-From". Значение: "0"
     - Заполнить поле: "Цена-To". Значение: "80"
   expected-result: |
-    Отображаются "Gucci Bloom Eau de"    
+    Отображаются "Gucci Bloom Eau de"
+
+ - summary: |
+    Проверка работы поиска по сайту
+  requirement: |
+    При вводе "nail" или "Nail" в поле поиска отображается карточка товара "Red Nail Polish"
+  prerequisites:  |
+    Открыта главная страница сайта     
+  steps: |
+    Ввести "nail" или "Nail" в строку поиска
+  expected-result: |
+    Отображается карточка товара "Red Nail Polish"  
     
