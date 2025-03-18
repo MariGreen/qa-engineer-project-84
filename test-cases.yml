@@ -372,7 +372,7 @@
   expected-result: |
     Отображаются "Gucci Bloom Eau de"
 
- - summary: |
+- summary: |
     Проверка работы поиска по сайту
   requirement: |
     При вводе "nail" или "Nail" в поле поиска отображается карточка товара "Red Nail Polish"
